@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsamankrsingh
+- 👋 Hi, I’m Aman Kumar Singh
 - 👀 I’m interested in Software Development and learning new technologies.
 - 🌱 I’m currently working as Application Software Developer @ Secure Meters.
 - 📫 You can reach me @ itsamankrsingh@gmail.com
